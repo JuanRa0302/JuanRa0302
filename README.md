@@ -17,7 +17,7 @@
 
 <!-- Other Stats -->
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanRa0302&theme=dark"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanRa0302"/>
 </div>
 
 <!-- Language & Tools -->
