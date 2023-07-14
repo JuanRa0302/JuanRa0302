@@ -6,7 +6,7 @@
   <a align="left" href="https://www.linkedin.com/in/juan-ramon-gonzalez-guerra-201b08249/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kyle-denton-57071871" />
   </a>
-  <img align="right" src="https://komarev.com/ghpvc/?username=JuanRa0302&label=Profile%20views&color=0e75b6&style=flat" alt="ky13d3nt0n" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=JuanRa0302&label=Profile%20views&color=0e75b6&style=flat" alt="JuanRa0302" />
 </div>
 
 <!-- Header -->
