@@ -12,7 +12,7 @@
 <!-- Header -->
 <div align="center">
   <h1>Hi 👋, I'm Juan Ramon</h1>
-  <h3>A senior frontend developer from the U.S</h3>
+  <h3>A senior frontend and backend developer from the U.S</h3>
 </div>
 
 <!-- Other Stats -->
