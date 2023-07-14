@@ -231,7 +231,6 @@
       <!-- Vuetify -->
       <td width="12.5%">
         <a href="https://vuetifyjs.com" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/vuetifyjs/vuetifyjs-icon.svg" alt="vuetify" width="40" height="40"/>
         </a>
         <br/>
         Vuetify
@@ -239,6 +238,7 @@
         <!-- Quasar -->
         <td width="96">
           <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/>
           </a>
           <br/>
           Quasar
